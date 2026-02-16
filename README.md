@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
- 🎓 **Master's Student** in Computer Science at **Uniwersytet Komisji Edukacji Narodowej** in Kraków.<br>📜 **B.Eng. in Computer Science** graduate from **Politechnika Opolska**.<br>💻 **Fullstack Developer** with a primary focus on **Backend development (C#/Python/.NET)**.<br>⚙️ **Fully available** for work due to weekend-based (extramural) studies.<br>🏢 **Professional Experience**: Proven track record in web development and IT systems implementation.<br>📍 Based in **Kraków** — looking for local or remote opportunities.
+ 🎓 **Master's Student** in Computer Science at **Uniwersytet Komisji Edukacji Narodowej** in Kraków.<br>📜 **B.Eng. in Computer Science** graduate from **Politechnika Opolska**.<br>💻 **Fullstack Developer** with a primary focus on **Backend development (C#/Python/.NET)**.<br>⚙️ **Fully available** for work due to weekend-based (extramural) studies.<br>🏢 **Professional Experience**: Proven track record in web development and IT systems implementation.<br>📍 Based in **Kraków** looking for local or remote opportunities.
 
 ---
 
